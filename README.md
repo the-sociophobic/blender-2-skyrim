@@ -8,7 +8,9 @@ This is a toolset for extracting Skyrim models. Extracting Skyrim models using B
 4. Move extracted folders to this project folder (from now on you no longer need Windiws. Use any python-runnable device)
 5. Open create-pngs.py. Specify which folders you want to use. i.e. ['./textures/armor', './textures/terrain']. Save
 
-### python3 create-pngs.py
+```
+python3 create-pngs.py
+```
 
 7. Open Blender
 8. Install [Blender niftools addon](https://github.com/niftools/blender_niftools_addon/releases)
