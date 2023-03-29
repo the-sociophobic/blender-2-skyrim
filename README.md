@@ -1,6 +1,6 @@
 ## Blender2Skyrim
 
-This is a toolset for extracting Skyrim models. Extracting Skyrim models using Blender most of the time. Blender and not some 2-commits-per-year-funmade-toolset.
+This is a toolset for extracting Skyrim models. Extracting Skyrim models using Blender most of the time. Blender. Not some poorly-updated-funmade-toolset.
 
 1. Get Skyrim original installation on Windows PC
 2. Downlad [Bethesda Archive Extractor](https://www.nexusmods.com/fallout4/mods/78/?tab=files) from NexusMods
