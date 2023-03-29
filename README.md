@@ -3,13 +3,14 @@
 This is a toolset for extracting Skyrim models. Extracting Skyrim models using Blender most of the time. Blender and not some 2-commits-per-year-funmade-toolset.
 
 1. Get Skyrim original installation on Windows PC
-2. Put this.exe into Game root folder. Run this.exe
-3. Copy the extracted Meshes to your Projects folder
-4. Copy create-pngs.py to Meshes folder
+2. Downlad nexusmods.com/fallout4/mods/78/?tab=files
+3. Use it to unarchive textures and meshes folders
+4. Move extracted folders to your project folder
+5. Run create-pngs.py
 
 ### python3 create-pngs.py
 
-6. Open blender
-7. Install https://github.com/niftools/blender_niftools_addon/releases to Blender
-8. File → Import → .nif. Open smth from Meshes/meshes
-9. Copy relink-textures.py into Blender Scripting console. Run
+7. Open Blender
+8. Install github.com/niftools/blender_niftools_addon/releases to Blender
+9. File → Import → .nif. Open smth from project/meshes
+10. Copy relink-textures.py into Blender Scripting console. Run
