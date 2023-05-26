@@ -10,6 +10,7 @@ This is a toolset for extracting Skyrim models. Extracting Skyrim models using B
 
 ```
 python3 create-pngs.py
+brew install freetype ImageMagick
 ```
 
 7. Open Blender
